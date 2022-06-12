@@ -12,9 +12,9 @@
 			<_id type="a">GUID ff875bf4-b473-4a3f-9b4b-b7d952c6dfb9</_id>
 			<_myState type="a">8192</_myState>
 			<_name type="a">emilima_servicioDocumental</_name>
-			<_modifiedTimeWeak type="a">1.1.2022::5:5:10</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.2022::5:5:10</_modifiedTime>
-			<_lastID type="a">11</_lastID>
+			<_modifiedTimeWeak type="a">1.2.2022::17:30:29</_modifiedTimeWeak>
+			<_modifiedTime type="a">1.2.2022::21:38:35</_modifiedTime>
+			<_lastID type="a">14</_lastID>
 			<_UserColors type="w">
 				<IRPYRawContainer type="e">
 					<value>16777215</value>
@@ -98,6 +98,7 @@
 				<value>GUID 9e8e4268-d626-45d6-8405-e400fedbf489</value>
 				<value>GUID b6513e20-919a-40ae-9db9-9bed424dedcf</value>
 				<value>GUID 72950adc-c0f6-45d8-8f4a-5240ab079bd3</value>
+				<value>GUID 16b5c994-91c0-42e7-96f1-8e50bb83a542</value>
 				<value>GUID 62492bb8-208f-4f15-8b16-2e1b0e02b43d</value>
 				<value>GUID 9dc2e1d4-513f-42e3-aa61-c081e13d8cfe</value>
 			</AggregatesList>
@@ -169,6 +170,10 @@
 		<ISubsystem type="e">
 			<fileName type="a">MD</fileName>
 			<_id type="a">GUID 72950adc-c0f6-45d8-8f4a-5240ab079bd3</_id>
+		</ISubsystem>
+		<ISubsystem type="e">
+			<fileName type="a">AtencionSolicitudBusquedaDocumentacion</fileName>
+			<_id type="a">GUID 16b5c994-91c0-42e7-96f1-8e50bb83a542</_id>
 		</ISubsystem>
 		<IDiagram type="e">
 			<_id type="a">GUID 62492bb8-208f-4f15-8b16-2e1b0e02b43d</_id>

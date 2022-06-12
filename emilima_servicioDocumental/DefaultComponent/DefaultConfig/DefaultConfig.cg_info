@@ -1,0 +1,23 @@
+I-Logix-RPY-Archive version 8.15.0 * 202006101734
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 2;
+	- value = "DefaultComponent\\DefaultConfig\\Administrador.cpp" 6.7.2022::1:10:35
+	"DefaultComponent\\DefaultConfig\\Administrador.h" 6.7.2022::1:10:35
+	
+}
+- m_saveUnitAndOwnerSaveUnit = { IRPYRawContainer 
+	- size = 1;
+	- value = "GUID 37cf0ae4-4559-4623-ac7c-f32964f40fdb" "GUID ff875bf4-b473-4a3f-9b4b-b7d952c6dfb9"
+	
+}
+- size = 1;
+- hElement = { IHandle 
+	- _m2Class = "IActor";
+	- _filename = ".\\..\\..\\emilima_servicioDocumental_rpy\\MCUS.sbsx";
+	- _subsystem = "MCUS";
+	- _name = "Administrador";
+	- _id = GUID ee04fc2f-7b73-4c6f-9f9f-ed6609c1cabe;
+}
+- genTime = 1.2.2022::16:3:6;
+
