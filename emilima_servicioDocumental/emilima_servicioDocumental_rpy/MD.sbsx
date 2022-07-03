@@ -54,7 +54,7 @@
 					
 				</IRPYRawContainer>
 			</Stereotypes>
-			<_modifiedTimeWeak type="a">1.1.2022::5:25:43</_modifiedTimeWeak>
+			<_modifiedTimeWeak type="a">1.1.2022::8:48:56</_modifiedTimeWeak>
 			<_theMainDiagram type="r">
 				<IHandle type="e">
 					<_hm2Class type="a">IDiagram</_hm2Class>
@@ -62,9 +62,9 @@
 					<_hid type="a">GUID 62492bb8-208f-4f15-8b16-2e1b0e02b43d</_hid>
 				</IHandle>
 			</_theMainDiagram>
-			<_modifiedTime type="a">1.1.2022::5:25:43</_modifiedTime>
-			<_lastID type="a">54</_lastID>
-			<weakCGTime type="a">1.1.2022::5:25:43</weakCGTime>
+			<_modifiedTime type="a">1.1.2022::8:48:56</_modifiedTime>
+			<_lastID type="a">55</_lastID>
+			<weakCGTime type="a">1.1.2022::8:48:56</weakCGTime>
 			<strongCGTime type="a">1.1.2022::5:5:10</strongCGTime>
 			<_defaultComposite type="s">GUID 774cf385-b57d-46ee-b58e-f2c06640af03</_defaultComposite>
 			<_eventsBaseID type="a">-1</_eventsBaseID>
@@ -15389,7 +15389,7 @@
 			<m_pParent type="s">GUID 5d50d9b2-8660-4216-af4c-486af04ca56a</m_pParent>
 			<m_name type="p">
 				<CGIText type="e">
-					<m_str type="a">:CC_Solicitud</m_str>
+					<m_str type="a">lifeline_0</m_str>
 					<m_style type="a">Arial; 10 0 0 0 1 </m_style>
 					<m_color type="p">
 						<IColor type="e">
@@ -27666,8 +27666,8 @@
 			</_properties>
 			<_name type="a">DS - Autorizar solicitud de b%FAsqueda</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">1.1.2022::5:48:7</_modifiedTime>
-			<_lastModifiedTime type="a">1.1.2022::5:48:7</_lastModifiedTime>
+			<_modifiedTime type="a">1.1.2022::8:48:56</_modifiedTime>
+			<_lastModifiedTime type="a">1.1.2022::8:49:10</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
@@ -27681,7 +27681,7 @@
 			<m_pICollaboration type="p"><ICollaboration type="e">
 				<_id type="a">GUID 7062a75e-20b4-4ac8-a16f-387648029ff6</_id>
 				<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-				<_modifiedTime type="a">1.1.2022::5:48:7</_modifiedTime>
+				<_modifiedTime type="a">1.1.2022::8:49:10</_modifiedTime>
 				<AggregatesList type="e">
 					<value>GUID f2c9c9d1-4a6a-4105-8b92-9556e95e29a6</value>
 					<value>GUID a948cafa-588e-4bae-8a6c-364ca27b0d58</value>
@@ -27815,7 +27815,6 @@
 			<IClassifierRole type="e">
 				<_id type="a">GUID 8f4e1c2d-aa3a-47a3-a9a6-0f4ef082f86d</_id>
 				<_myState type="a">2048</_myState>
-				<_name type="a">lifeline_0</_name>
 				<Stereotypes type="c">
 					<IRPYRawContainer type="e">
 						
@@ -27828,11 +27827,16 @@
 						
 					</IRPYRawContainer>
 				</Stereotypes>
-				<_modifiedTimeWeak type="a">1.1.2022::7:25:38</_modifiedTimeWeak>
-				<_modifiedTime type="a">1.1.2022::7:25:38</_modifiedTime>
+				<_modifiedTimeWeak type="a">1.1.2022::8:49:10</_modifiedTimeWeak>
+				<_modifiedTime type="a">1.1.2022::8:49:10</_modifiedTime>
 				<m_eRoleType type="a">CLASS</m_eRoleType>
 				<m_pBase type="r">
 					<IHandle type="e">
+						<_hm2Class type="a">IClass</_hm2Class>
+						<_hfilename type="a">.\MA.sbsx</_hfilename>
+						<_hsubsystem type="a">MA</_hsubsystem>
+						<_hname type="a">CC_Solicitud</_hname>
+						<_hid type="a">GUID d06195d2-cee4-450a-ad31-b895ba8e91de</_hid>
 					</IHandle>
 				</m_pBase>
 				<m_instance type="r">
